@@ -1,0 +1,176 @@
+.ProEdu{
+    font-size: 20px;
+    padding-right: 150px;
+    font-weight: bold;
+}
+
+.nav{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.nav_item{
+    margin-right: 20px;
+}
+
+section{
+    margin-left: 30px;
+    margin-right: 40px;
+}
+
+.nav_item_reg{
+    margin-left: 170px;
+    color: blue;
+    border-color: black;
+    border-width: 1px;
+    font-size: 15px;
+    font-weight: 400;
+    border-radius: 10px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.nav_item_reg:hover{
+    background-color: orange;
+    color: aliceblue;
+    transition-duration: 1s;
+}
+
+.reg_b{
+    color: white;
+    background-color: orange;
+    border-color: black;
+    border-width: 1px;
+    font-size: 15px;
+    font-weight: 400;
+    border-radius: 10px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.carousel-item div{
+    margin: 100px;
+}
+
+.carousel-item img{
+    height: 600px;
+    filter: brightness(50%)
+}
+
+.discover{
+    text-align: center;
+    margin-top: 400px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.d_box{
+    display: flex;
+}
+
+.d_box div{
+    padding: 10px;
+}
+
+.See_more button{
+    margin-left: 500px;
+    color: white;
+    background-color: orange;
+    border-width: 1px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.Explore{
+    margin-top: 200px;
+}
+
+.Read_more button{
+    margin-left: 20px;
+    margin-top: 10px;
+    color: white;
+    background-color: orange;
+    border-width: 1px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.Join{
+    display: flex;
+    margin-top: 100px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: cadetblue;
+    color: white;
+    margin-right: 20px;
+    padding: 30px;
+}
+
+.Join p{
+    width: 600px;
+}
+
+.join_b button{
+    margin-top: 70px;
+    margin-left: 250px;
+    background-color: white;
+    color: orange;
+}
+
+.meet{
+    margin-top: 200px;
+}
+
+.p{
+    width: 400px;
+}
+
+.student{
+    display: flex;
+}
+
+.student div{
+    margin: 10px;
+}
+
+.FAQ{
+    margin-top: 300px;
+}
+
+.FAQ div{
+    text-align: center;
+}
+
+.FAQP p{
+    margin-bottom: 40px;
+    text-align: center;
+    width: 560px;
+    margin-left: 300px;
+}
+
+.company{
+    margin-top: 300px;
+}
+
+.im{
+    padding: 12px;
+}
+
+.over h2{
+    text-align: center;
+}
+
+.foot{
+    margin-top: 300px;
+    padding: 100px;
+}
+
